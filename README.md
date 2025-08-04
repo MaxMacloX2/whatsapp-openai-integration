@@ -48,7 +48,7 @@ ngrok http 8000
 Url_generada/webhook/whatsapp
 
 
-# Para hacer las pruebas de envio se recoiensda antes mandar el codigo para recibir y enviar en las pruebas
+# Para hacer las pruebas de envio se recomienda antes mandar el codigo para recibir y enviar en las pruebas
 
 # los endpoint para ejecutarlo
 
